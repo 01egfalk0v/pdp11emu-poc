@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdp11emu", "pdp11emu\pdp11emu.csproj", "{BA94C880-A3AD-4596-B166-2824DA191021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pdp11emu.tests", "pdp11emu.tests\pdp11emu.tests.csproj", "{79FE106D-579B-4A5E-8491-E4C3C1AB901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA94C880-A3AD-4596-B166-2824DA191021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA94C880-A3AD-4596-B166-2824DA191021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA94C880-A3AD-4596-B166-2824DA191021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA94C880-A3AD-4596-B166-2824DA191021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79FE106D-579B-4A5E-8491-E4C3C1AB901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79FE106D-579B-4A5E-8491-E4C3C1AB901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79FE106D-579B-4A5E-8491-E4C3C1AB901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79FE106D-579B-4A5E-8491-E4C3C1AB901C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E52EFDD-39DE-4009-8AAA-027BFF3E7278}
+	EndGlobalSection
+EndGlobal
